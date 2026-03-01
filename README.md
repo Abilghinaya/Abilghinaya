@@ -1,5 +1,6 @@
 ### Hi there ! I'm Abil Ghinaya Azka👋
-![Abil ghinaya](github-header-banner.png)
+
+<img src="https://raw.githubusercontent.com/Abilghinaya/Abilghinaya/main/img/github-header-banner.png" width="100%">
 
 <img align="right" height="115" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWp2dWZ6aGZ4dHh1N3B3OHJibTgzZDRmZDQ4MTlxMWc4ZWIzN3RmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ADh60uD3rj7S4kNu5r/giphy.gif"  />
 
@@ -44,6 +45,8 @@
 </picture>
 
 ###
+
+![pacman](https://raw.githubusercontent.com/Abilghinaya/Abilghinaya/output/pacman-contribution-graph.svg)
 
 <img src="https://raw.githubusercontent.com/Abilghinaya/Abilghinaya/output/snake.svg" alt="Snake animation" />
 
