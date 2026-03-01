@@ -21,12 +21,30 @@
 ### Connect with me👥
 
 <div align="left">
+<a href="https://www.instagram.com/Axzzkabiel_">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"   />
+<a/>
+
+<a href="https://discord.com/users/1439903485729443860">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+<a/>
+
+<a href="mailto:ghinayaabil13@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+<a/>
+
+<a href="https://www.linkedin.com/in/Abil Ghinaya">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<a/>
+
+<a href="https://www.facebook.com/Azzkabiel">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+<a/>
+
+<a href="https://medium.com/@Abil Ghinaya">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+<a/>
+
 </div>
 
 ### Stats📊
@@ -34,7 +52,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abilghinaya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abilghinaya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
